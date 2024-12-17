@@ -4,3 +4,21 @@ body {
 }
 
 /* Add styling to replicate the model website */
+#c1{
+    text-align: center;
+}
+.card{
+    margin: 0 auto;
+}
+body{
+    background-image: url(background.avif);
+}
+p{
+    color: white;  !important
+}
+h2{
+    color: white;  !important
+}
+h5{
+    color: white;  !important
+}
